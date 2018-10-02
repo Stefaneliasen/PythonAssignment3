@@ -2,6 +2,11 @@
 Group: Gifted Perception
 Mathias Bartels Jensius, Oliver Lønning og Stefan Schou Eliasen
 
+## how to make it run
+
+Clone projekt
+Run deaths.py
+
 # Foolish Supermarket Questions
 
 ## Which state has the most deaths in the year of 2016? (All causes)
@@ -19,3 +24,4 @@ Staten med flest døde af kidney diseases er Pennsylvania med 3108 døde
 
 ## Which state has had the biggest increase in the death of Alzheimers from 1999-2016? Plot the increase year for year using matplotlib
 Efter vores præsentation fik vi at vide, at opgave ikke behøves laves, da vi også skal lave matplotlib næste uge.
+
