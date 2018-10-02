@@ -4,8 +4,8 @@ Mathias Bartels Jensius, Oliver Lønning og Stefan Schou Eliasen
 
 ## how to make it run
 
-Clone projekt
-Run deaths.py
+-Clone projekt
+-Run deaths.py
 
 # Foolish Supermarket Questions
 
