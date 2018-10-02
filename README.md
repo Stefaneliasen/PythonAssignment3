@@ -1,7 +1,6 @@
 # PythonAssignment3
-Mathias Bartels Jensius, Oliver Lønning og Stefan Shchou Eliasen
-
 Group: Gifted Perception
+Mathias Bartels Jensius, Oliver Lønning og Stefan Schou Eliasen
 
 # Foolish Supermarket Questions
 
